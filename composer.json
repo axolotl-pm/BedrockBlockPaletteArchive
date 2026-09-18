@@ -1,0 +1,7 @@
+{
+    "name": "axolotl-pm/bedrock-block-palette-archive",
+    "description": "Archive of previous Minecraft Bedrock block palettes of interest, useful for world format upgrading",
+    "type": "library",
+    "license": "CC0-1.0",
+    "require": {}
+}
